@@ -3,6 +3,8 @@ presets =
 	--
 	"<no_weapon>",
 	"default",
+	"variant",
+	"sergeant",
 
 	-- space marine ranged weapons
 	"space_marines_assault_cannon",
