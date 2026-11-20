@@ -57,6 +57,7 @@ Presets =
 	"Chaos_Plasma_Twin",
 	"Chaos_Plasma_Twin_Advance_Sp",
 	"Chaos_Storm_Bolter",
+	"Chaos_Rad_Cannon",
 		
 	-- Ork Ranged Weapons
 	"Ork_Battlecannon",
@@ -270,6 +271,7 @@ Presets =
 	"Space_Marines_Power_Sword",
 	"Space_Marines_Thunder_Hammer",
 	"Space_Marines_Rogal's_Fist",
+	"Space_Marines_Lightning_Claws",
 
 	-- Chaos Melee Weapons
 	"Chaos_Accursed_Crozius",
@@ -285,6 +287,7 @@ Presets =
 	"Chaos_Possessed_Melee",	
 	"Chaos_Power_Fist",	
 	"Chaos_Power_Sword",
+	"Chaos_Scythe",
 	
 	-- Ork Melee Weapons
 	"Ork_Choppa",
