@@ -1,9 +1,14 @@
-presets = 
+Presets = 
 {
 	--
 	"<no_weapon>",
 	"default",
 	"sergeant",
+
+	-- variants
+	"krieg",
+	"catachan",
+	"steel_legion",
 
 	
 	-- space marine ranged weapons
